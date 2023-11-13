@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47d3v1amuv9erctiwqvhxz7owtod78xlt4qy5bxkkl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 <div id="badges">
- <a href="https://www.linkedin.com/in/aleksey-belov-2a6736295/">
+ <a href="www.linkedin.com/in/aleksey-belov-2a6736295">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
