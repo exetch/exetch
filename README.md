@@ -8,15 +8,15 @@
 Hello! I am an aspiring developer specializing in Python. Here's a brief overview of my skills and knowledge:
 
 - :snake: Python: Advanced knowledge. I use Python for developing various projects, including web applications and automation scripts.
-- 
+  
 - :globe_with_meridians: HTML & CSS: Basic knowledge. Capable of creating simple web pages and styling them.
-- 
+ 
 - :elephant: PostgreSQL: Experience in working with this database system, including database design and optimization.
-- 
+  
 - :penguin: Linux: Confidently using Linux as the main operating system for development and deployment of applications.
-- 
+ 
 - :octocat: Git: Skills in using Git for version control and collaborative projects.
-- 
+  
 - :computer: Django & Django REST Framework (DRF): Experience in developing web applications and APIs using Django and DRF.
 
 - :mailbox: How to reach me: 
