@@ -1,7 +1,12 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47d3v1amuv9erctiwqvhxz7owtod78xlt4qy5bxkkl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
-
+<div id="badges">
+ <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81-undefined-2a6736295/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ 
+</div>
 <!--
 **exetch/exetch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
