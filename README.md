@@ -19,10 +19,15 @@ Hello! I am a Python Developer specializing in backend development for web appli
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-I am passionate about learning new technologies and continuously improving my skills to provide the best solutions in the evolving world of web development.
 ---
+### :hammer_and_wrench: Languages and Tools:
 
+- :snake: Python
+- :globe_with_meridians: HTML, CSS
+- :elephant: PostgreSQL
+- :penguin: Linux
+- :octocat: Git
+- :computer: Django, Django REST Framework (DRF)
 <!--
 **exetch/exetch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
