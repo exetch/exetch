@@ -20,6 +20,7 @@ Hello! I am a Python Developer specializing in backend development for web appli
   </a>
 </div>
 ---
+
 ### :hammer_and_wrench: Languages and Tools:
 
 - :snake: Python
